@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple to do</string>
+    <string name="addtaskbtn">Add</string>
+    <string name="cleartaskbtn">Clear</string>
+</resources>
